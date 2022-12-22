@@ -1,0 +1,16 @@
+# telaLogin {
+    largura : 350 px ;
+    posição : absoluto;
+    superior : 50 % ;
+    esquerda :  50 % ;
+    transformar :  traduzir ( -50 % ,  -50 % );
+    box-shadow :  1 px  5 px  30 px  rgb ( 195 ,  195 , 195 );
+    opacidade :  0,9 ;
+}
+
+# fundo {
+    cor de fundo :  rgb ( 0 ,  0 ,  0 );
+    background-image :  url ( "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ06RtiNk4TsKQP-Mm8Y9_nqhOpZsmjDVOGeQ&usqp=CAU" );
+    background-attachment : fixo;
+    
+}
